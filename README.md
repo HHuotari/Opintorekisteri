@@ -1,2 +1,2 @@
 # Opintorekisteri
-express.js CRUD, basic-authentication
+# express.js CRUD, basic-authentication
